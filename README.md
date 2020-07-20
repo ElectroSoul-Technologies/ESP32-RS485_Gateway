@@ -64,6 +64,16 @@ We had tested our products not just in our lab environment but it has also been 
 | **GPIO 17**     |RS485 Tx pin    |
 | **GPIO 16**     |RS485 Rx pin    |
 
+## ElectroSoul Dashboard
+  * View all your data live.
+  * See Waveform of your data.
+  * Directly Print/copy your data.
+  * Convert your data to PDF,CSV or EXCEL.
+  * See data as per your time.
+  
+## ElectroSoul GateWay Basic WorkFlow
+
+## ElectroSoul GateWay Configeration Tool
 
 
  
