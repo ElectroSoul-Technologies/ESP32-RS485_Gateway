@@ -1,5 +1,5 @@
 # ElectroSoul ESP32-RS485 Gateway
-This is ElectroSoul ESP32 based RS485 to Wi-Fi Industrial Gateway. We had tested and had used this Gateway with various devices for Monitoring such as MFM meters, Solar Inverters, AC Drives etc as well as for controlling AC drives, RS485-MCB or any other RS485 device.
+This is ElectroSoul ESP32 based RS485 to Wi-Fi Industrial Gateway. We had tested and used this Gateway with various slave devices for Monitoring such as MFM meters, Solar Inverters, AC Drives etc as well as for controlling AC drives, RS485-MCB or any other RS485 device.
 
 We had tested our products not just in our lab environment but it has also been tested and is working right now in many harsh Industrial Environment.
 <table class="table table-hover table-striped table-bordered">
