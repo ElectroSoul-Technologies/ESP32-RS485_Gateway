@@ -21,7 +21,7 @@ We had tested our products not just in our lab environment but it has also been 
 * [Power Requirement](#Power-Requirement)
 * [GPIO Configeration Table](#GPIO-Configeration-Table)
 
-# FEATURES
+## FEATURES
   * Directlly program with Arduino IDE just like you program your ESP32 board.
   * Supports Industrial Standard Input voltage.
   * State of the art RS-485 ckt with Auto-Direction feature.
@@ -32,7 +32,7 @@ We had tested our products not just in our lab environment but it has also been 
   * Compact Size.
   * Low Power.
   
-# Ordering INFO
+## Ordering INFO
 
  We sell this device in two varients.
  
@@ -49,14 +49,14 @@ We had tested our products not just in our lab environment but it has also been 
     * Data can not be shown on our DashBoard.❌
     * No support for configeration Tool.❌
     
-# Power Requirement
+## Power Requirement
  * Max Power requires < 5Watt
  * Input Voltage 9v-35v DC.
  ```diff
  -Note: There is no Polarity Protection in this device.
  ```
  
-# GPIO Configeration Table
+## GPIO Configeration Table
 |     GPIO No.    |  Description   |
 |-----------------|----------------|
 | **GPIO 33**     |   LED1         |
