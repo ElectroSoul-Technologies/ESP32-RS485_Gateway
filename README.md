@@ -47,8 +47,7 @@ We had tested our products not just in our lab environment but it has also been 
  <table class="table table-hover table-striped table-bordered">
   <tr align="center">
    <td><a href="https://www.sparkfun.com/products/15093"><img src="https://cdn.sparkfun.com/assets/parts/1/3/4/5/1/15093-SparkFun_Qwiic_Single_Relay-01.jpg"></a></td>
-   <td><a href="https://www.sparkfun.com/products/15102"><img src="https://cdn.sparkfun.com/assets/parts/1/3/4/6/2/15102-SparkFun_Qwiic_Quad_Relay-01a.jpg"></a></td>
-   <td><a href="https://www.sparkfun.com/products/16833"><img src="https://cdn.sparkfun.com/r/500-500/assets/parts/1/5/7/5/4/16833-SparkFun_Qwiic_Quad_Solid_State_Relay_Kit-01.jpg"></a></td>
+   
   </tr>
   </table>
   
