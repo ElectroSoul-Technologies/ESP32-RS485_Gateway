@@ -18,6 +18,7 @@ We had tested our products not just in our lab environment but it has also been 
 **Ordering INFO**
 
  We sell this device in two varients.
+ 
  1)Comes with our ElectroSoul Firmware installed inside.
     * Can talk to our server directlly.✅
     * We can show your data to our DashBoard.✅
