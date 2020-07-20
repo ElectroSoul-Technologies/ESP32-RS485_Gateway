@@ -14,6 +14,11 @@ We had tested our products not just in our lab environment but it has also been 
     <td><a>ES Gateway Inside View</a></td>
   </tr>
   </table>
+# Table of contents
+* [FEATURES](#FEATURES)
+* [Ordering INFO](#Ordering-INFO)
+* [Power Requirement](#Power-Requirement)
+* [GPIO Configeration Table](#GPIO-Configeration-Table)
 
 **FEATURES**
   * Directlly program with Arduino IDE just like you program your ESP32 board.
@@ -50,13 +55,14 @@ We had tested our products not just in our lab environment but it has also been 
  -Note: There is no Polarity Protection in this device.
  ```
  
-GPIO configeration table.
+**GPIO Configeration Table**
 |     GPIO No.    |  Description   |
 |-----------------|----------------|
 | **GPIO 33**     |   LED1         |
 | **GPIO 14**     |   LED2         |
 | **GPIO 17**     |RS485 Tx pin    |
 | **GPIO 16**     |RS485 Rx pin    |
+
 
 
  
