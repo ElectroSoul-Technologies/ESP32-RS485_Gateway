@@ -50,4 +50,9 @@ We had tested our products not just in our lab environment but it has also been 
  -Note: There is no Polarity Protection in this device.
  ```
  
+GPIO configeration table.
+|     GPIO No.    |  Description   |
+|-----------------|----------------|
+| **GPIO14**      |   LED1         |
+ 
   
