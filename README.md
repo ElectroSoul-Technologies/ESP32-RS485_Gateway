@@ -75,6 +75,9 @@ We had tested our products not just in our lab environment but it has also been 
 
 ## ElectroSoul GateWay Configeration Tool
 
-
+<span class="float-left text-red tooltipped tooltipped-n" aria-label="Does not meet accessibility standards"><%= octicon("alert") %></span>
+<div class="text-orange-light mb-2">
+  .text-orange-light on white
+</div>
  
   
