@@ -76,22 +76,22 @@ We had tested our products not just in our lab environment but it has also been 
   * Convert your data to PDF,CSV or EXCEL.
   * See data as per your time.
   
-  <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/11.jpeg" width="800" title="ESP32-RS485 Modbus Gateway" alt="ESP32-RS485 Modbus Gateway"></a>
+  <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/11.jpeg" width="1000" title="ESP32-RS485 Modbus Gateway" alt="ESP32-RS485 Modbus Gateway"></a>
 
   
 ## ElectroSoul Gateway Basic WorkFlow
 Basic flow diagrams that how EMS or Gateway works.
 
-  <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/13.jpeg" width="800"></a>
+  <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/13.jpeg" width="1000"></a>
 
 ## ElectroSoul Gateway Basic Wiring
 In below diagram you can see how RS485 wiring can be done in daisy chain configeration with various slave device.
 
-<a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/12.jpeg" width="800"></a>
+<a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/12.jpeg" width="1000"></a>
 ## ElectroSoul Gateway Configeration Tool
 We have our own configeration tool for configering our EMS according to your needs.
 Find more info about using configeration tool [Here]().
 
-  <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/01.jpeg" width="600"></a>
+  <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/01.jpeg" width="1000"></a>
 
 
