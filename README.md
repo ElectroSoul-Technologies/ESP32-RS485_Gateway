@@ -45,9 +45,9 @@ We had tested our products not just in our lab environment but it has also been 
    <td><a href="https://www.tindie.com/products/electrosoul/esp32-rs485-modbus-gateway/"><img src="https://electrosoul.in/product_photo/RS485_Gateway_WiFi/EMSv1_img3.png" width="300"></a></td>
   </tr>
  <tr align="center">
-    <td><a href="https://www.sparkfun.com/products/15093">ElectroSoul ESP32-RS485 Gateway</a></td>
-    <td><a href="https://www.sparkfun.com/products/15102">Connection Diagram (COM-15102)</a></td>
-    <td><a href="https://www.sparkfun.com/products/16833">Inside View</a></td>
+    <td><a>ElectroSoul ESP32-RS485 Gateway</a></td>
+    <td><a href="">Connection Diagram</a></td>
+    <td><a href="">ES Gateway Inside View</a></td>
   </tr>
   </table>
   
