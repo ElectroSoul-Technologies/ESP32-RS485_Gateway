@@ -42,6 +42,6 @@ We had tested our products not just in our lab environment but it has also been 
  **Connection Diagram**
  
  <a href="https://www.tindie.com/products/electrosoul/esp32-rs485-modbus-gateway/"><img src="https://electrosoul.in/product_photo/RS485_Gateway_WiFi/Picture4.png" title="ESP32-RS485 Modbus Gateway" alt="ESP32-RS485 Modbus Gateway"></a>
-    
+ ![](https://electrosoul.in/product_photo/RS485_Gateway_WiFi/Picture4.png =250x250)
   
   
