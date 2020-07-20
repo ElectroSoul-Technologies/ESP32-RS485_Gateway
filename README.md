@@ -33,12 +33,14 @@ We had tested our products not just in our lab environment but it has also been 
     * No support for configeration Tool.❌
     
  **Power Requirement**
- * Max Power requires <5Watt
- * Input Voltage 9v-30v DC.
+ * Max Power requires < 5Watt
+ * Input Voltage 9v-35v DC.
  ```diff
  -Note: There is no Polarity Protection in this device.
  ```
- - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Note: There is no Polarity Protection in this device.`
+ 
+ ** Connection Diagram**
+ <a href="https://www.tindie.com/products/electrosoul/esp32-rs485-modbus-gateway/"><img src="https://electrosoul.in/product_photo/RS485_Gateway_WiFi/Picture4.png" title="ESP32-RS485 Modbus Gateway" alt="ESP32-RS485 Modbus Gateway"></a>
     
   
   
