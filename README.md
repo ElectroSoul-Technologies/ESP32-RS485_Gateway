@@ -46,8 +46,8 @@ We had tested our products not just in our lab environment but it has also been 
   </tr>
  <tr align="center">
     <td><a>ElectroSoul ESP32-RS485 Gateway</a></td>
-    <td><a href="">Connection Diagram</a></td>
-    <td><a href="">ES Gateway Inside View</a></td>
+    <td><a>Connection Diagram</a></td>
+    <td><a>ES Gateway Inside View</a></td>
   </tr>
   </table>
   
