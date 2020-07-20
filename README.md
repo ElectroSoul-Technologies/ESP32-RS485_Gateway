@@ -32,6 +32,13 @@ We had tested our products not just in our lab environment but it has also been 
     * Data can not be shown on our DashBoard.❌
     * No support for configeration Tool.❌
     
+ **Power Requirement**
+ * Max Power requires <5Watt
+ * Input Voltage 9v-30v DC.
+ ```diff
+ -Note: There is no Polarity Protection in this device.
+ ```
+    
     
   
   
