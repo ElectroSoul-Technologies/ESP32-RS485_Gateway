@@ -2,7 +2,18 @@
 This is ElectroSoul ESP32 based RS485 to Wi-Fi Industrial Gateway. We had tested and had used this Gateway with various devices for Monitoring such as MFM meters, Solar Inverters, AC Drives etc as well as for controlling AC drives, RS485-MCB or any other RS485 device.
 
 We had tested our products not just in our lab environment but it has also been tested and is working right now in many harsh Industrial Environment.
-
+<table class="table table-hover table-striped table-bordered">
+  <tr align="center">
+   <td><a href="https://www.tindie.com/products/electrosoul/esp32-rs485-modbus-gateway/"><img src="https://electrosoul.in/product_photo/RS485_Gateway_WiFi/EMSv1_img1.png" width="300"></a></td>
+   <td><a href="https://www.tindie.com/products/electrosoul/esp32-rs485-modbus-gateway/"><img src="https://electrosoul.in/product_photo/RS485_Gateway_WiFi/EMSv1_img2.png" width="300"></a></td>
+   <td><a href="https://www.tindie.com/products/electrosoul/esp32-rs485-modbus-gateway/"><img src="https://electrosoul.in/product_photo/RS485_Gateway_WiFi/EMSv1_img3.png" width="300"></a></td>
+  </tr>
+ <tr align="center">
+    <td><a>ElectroSoul ESP32-RS485 Gateway</a></td>
+    <td><a>Connection Diagram</a></td>
+    <td><a>ES Gateway Inside View</a></td>
+  </tr>
+  </table>
 
 **FEATURES**
   * Directlly program with Arduino IDE just like you program your ESP32 board.
@@ -38,16 +49,5 @@ We had tested our products not just in our lab environment but it has also been 
  ```diff
  -Note: There is no Polarity Protection in this device.
  ```
- <table class="table table-hover table-striped table-bordered">
-  <tr align="center">
-   <td><a href="https://www.tindie.com/products/electrosoul/esp32-rs485-modbus-gateway/"><img src="https://electrosoul.in/product_photo/RS485_Gateway_WiFi/EMSv1_img1.png" width="300"></a></td>
-   <td><a href="https://www.tindie.com/products/electrosoul/esp32-rs485-modbus-gateway/"><img src="https://electrosoul.in/product_photo/RS485_Gateway_WiFi/EMSv1_img2.png" width="300"></a></td>
-   <td><a href="https://www.tindie.com/products/electrosoul/esp32-rs485-modbus-gateway/"><img src="https://electrosoul.in/product_photo/RS485_Gateway_WiFi/EMSv1_img3.png" width="300"></a></td>
-  </tr>
- <tr align="center">
-    <td><a>ElectroSoul ESP32-RS485 Gateway</a></td>
-    <td><a>Connection Diagram</a></td>
-    <td><a>ES Gateway Inside View</a></td>
-  </tr>
-  </table>
+ 
   
