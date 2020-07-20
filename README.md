@@ -46,7 +46,7 @@ We had tested our products not just in our lab environment but it has also been 
  
  <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><a href="https://www.sparkfun.com/products/15093"><img src="https://cdn.sparkfun.com/assets/parts/1/3/4/5/1/15093-SparkFun_Qwiic_Single_Relay-01.jpg"></a></td>
+   <td><a href="https://www.tindie.com/products/electrosoul/esp32-rs485-modbus-gateway/"><img src="https://electrosoul.in/product_photo/RS485_Gateway_WiFi/Picture4.png"></a></td>
    
   </tr>
   </table>
