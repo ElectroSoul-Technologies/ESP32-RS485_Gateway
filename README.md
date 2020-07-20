@@ -27,7 +27,8 @@ We had tested our products not just in our lab environment but it has also been 
     * Easily configures with our Configeration Tool.✅
     
   2) Comes without ElectroSoul Firmware.
-    * You can Program it as per your require.✅
+  
+    * You can Program it as per your requirement.✅
     * You can use our [RS485 master Liberary](https://github.com/ElectroSoul-Technologies/ElectroSoul_RS485_master_Liberary).✅
     * can not use our Server.❌
     * Data can not be shown on our DashBoard.❌
