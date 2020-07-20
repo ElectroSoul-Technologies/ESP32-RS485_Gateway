@@ -4,7 +4,7 @@ This is ElectroSoul ESP32 based RS485 to Wi-Fi Industrial Gateway. We had tested
 We had tested our products not just in our lab environment but it has also been tested and is working right now in many harsh Industrial Environment.
 
 
-** FEATURES **
+**FEATURES **
   * Directlly program with Arduino IDE just like you program your ESP32 board.
   * Supports Industrial Standard Input voltage.
   * State of the art RS-485 ckt with Auto-Direction feature.
@@ -15,7 +15,7 @@ We had tested our products not just in our lab environment but it has also been 
   * Compact Size.
   * Low Power.
   
-** Ordering INFO**
+**Ordering INFO**
  We sell this device in two varients.
  1) Comes with our ElectroSoul Firmware installed inside.
     * Can talk to our server directlly.✅
