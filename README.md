@@ -53,6 +53,11 @@ We had tested our products not just in our lab environment but it has also been 
 GPIO configeration table.
 |     GPIO No.    |  Description   |
 |-----------------|----------------|
-| **GPIO14**      |   LED1         |
+| **GPIO 33**     |   LED1         |
+| **GPIO 14**     |   LED2         |
+| **GPIO 17**     |RS485 Tx pin    |
+| **GPIO 16**     |RS485 Rx pin    |
+
+
  
   
