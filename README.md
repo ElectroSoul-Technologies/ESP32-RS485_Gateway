@@ -19,13 +19,13 @@ We had tested our products not just in our lab environment but it has also been 
 
  We sell this device in two varients.
  
- > Comes with our ElectroSoul Firmware installed inside.
+ * Comes with our ElectroSoul Firmware installed inside.
     * Can talk to our server directlly.✅
     * We can show your data to our DashBoard.✅
     * We can provide you an daily email report.✅
     * We can provide you SMS/email alerts.✅
     * Easily configures with our Configeration Tool.✅
-  > Comes without ElectroSoul Firmware.
+  * Comes without ElectroSoul Firmware.
     * You can Program it as per your requirement.✅
     * You can use our [RS485 master Liberary](https://github.com/ElectroSoul-Technologies/ElectroSoul_RS485_master_Liberary).✅
     * can not use our Server.❌
