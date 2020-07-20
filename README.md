@@ -20,6 +20,9 @@ We had tested our products not just in our lab environment but it has also been 
 * [Ordering INFO](#Ordering-INFO)
 * [Power Requirement](#Power-Requirement)
 * [GPIO Configeration Table](#GPIO-Configeration-Table)
+* [ElectroSoul Dashboard](#ElectroSoul-Dashboard)
+* [ElectroSoul Gateway Basic WorkFlow](#ElectroSoul-Gateway-Basic-WorkFlow)
+* [ElectroSoul Gateway Configeration Tool](#ElectroSoul-Gateway-Configeration-Tool)
 
 ## FEATURES
   * Directlly program with Arduino IDE just like you program your ESP32 board.
@@ -52,10 +55,11 @@ We had tested our products not just in our lab environment but it has also been 
 ## Power Requirement
  * Max Power requires < 5Watt
  * Input Voltage 9v-35v DC.
+:warning:
  ```diff
- -Note: There is no Polarity Protection in this device.
+-Note: There is no Polarity Protection in this device.
  ```
- 
+
 ## GPIO Configeration Table
 |     GPIO No.    |  Description   |
 |-----------------|----------------|
@@ -64,6 +68,7 @@ We had tested our products not just in our lab environment but it has also been 
 | **GPIO 17**     |RS485 Tx pin    |
 | **GPIO 16**     |RS485 Rx pin    |
 
+
 ## ElectroSoul Dashboard
   * View all your data live.
   * See Waveform of your data.
@@ -71,13 +76,22 @@ We had tested our products not just in our lab environment but it has also been 
   * Convert your data to PDF,CSV or EXCEL.
   * See data as per your time.
   
-## ElectroSoul GateWay Basic WorkFlow
+  <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/11.jpeg" title="ESP32-RS485 Modbus Gateway" alt="ESP32-RS485 Modbus Gateway"></a>
 
-## ElectroSoul GateWay Configeration Tool
-
-<span class="float-left text-red tooltipped tooltipped-n" aria-label="Does not meet accessibility standards"><%= octicon("alert") %></span>
-<div class="text-orange-light mb-2">
-  .text-orange-light on white
-</div>
- 
   
+## ElectroSoul Gateway Basic WorkFlow
+Basic flow diagrams that how EMS or Gateway works.
+
+  <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/13.jpeg"></a>
+
+## ElectroSoul Gateway Basic Wiring
+In below diagram you can see how RS485 wiring can be done in daisy chain configeration with various slave device.
+
+<a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/12.jpeg"></a>
+## ElectroSoul Gateway Configeration Tool
+We have our own configeration tool for configering our EMS according to your needs.
+Find more info about using configeration tool [Here]().
+
+  <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/01.jpeg" width="600"></a>
+
+
