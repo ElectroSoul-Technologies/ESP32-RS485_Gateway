@@ -23,6 +23,7 @@ We had tested our products not just in our lab environment but it has also been 
 * [ElectroSoul Dashboard](#ElectroSoul-Dashboard)
 * [ElectroSoul Gateway Basic WorkFlow](#ElectroSoul-Gateway-Basic-WorkFlow)
 * [ElectroSoul Gateway Configeration Tool](#ElectroSoul-Gateway-Configeration-Tool)
+* [Repository Contents](#Repository-Contents)
 
 ## FEATURES
   * Directlly program with Arduino IDE just like you program your ESP32 board.
@@ -93,8 +94,8 @@ We have our own configeration tool for configering our EMS according to your nee
 Find more info about using configeration tool [Here]().
 
   <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/01.jpeg" width="1000"></a>
-**Repository Contents**
 
+## Repository Contents
 * **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE.
 * **LICENSE.md** - Library has open source license gpl-3.0
 * **README.MD**
