@@ -93,5 +93,9 @@ We have our own configeration tool for configering our EMS according to your nee
 Find more info about using configeration tool [Here]().
 
   <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/01.jpeg" width="1000"></a>
+**Repository Contents**
 
+* **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE.
+* **LICENSE.md** - Library has open source license gpl-3.0
+* **README.MD**
 
