@@ -52,6 +52,7 @@ We had tested our products not just in our lab environment but it has also been 
     * can not use our Server.❌
     * Data can not be shown on our DashBoard.❌
     * No support for configeration Tool.❌
+    <a href="https://www.tindie.com/stores/electrosoul/?ref=offsite_badges&utm_source=sellers_electrosoul&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
     
 ## Power Requirement
  * Max Power requires < 5Watt
