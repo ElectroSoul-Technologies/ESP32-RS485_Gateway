@@ -93,7 +93,7 @@ In below diagram you can see how RS485 wiring can be done in daisy chain confige
 <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/12.jpeg" width="1000"></a>
 ## ElectroSoul Gateway Configeration Tool
 We have our own configeration tool for configering our EMS according to your needs.
-Find more info about using configeration tool [Here]().
+Find more info about using configeration tool [Here](https://github.com/ElectroSoul-Technologies/ES-EMS_configerator).
 
   <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/01.jpeg" width="1000"></a>
 
