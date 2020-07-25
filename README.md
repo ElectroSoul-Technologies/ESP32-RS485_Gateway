@@ -1,5 +1,5 @@
 # ElectroSoul ESP32-RS485 Gateway
-Industrial RS485 Gateway based on ESP32 is designed and developed by ElectroSoul Technologies. We had tested and used this RS485 Gateway with various slave devices for Monitoring such as MFM meters, Solar Inverters, AC Drives etc as well as for controlling AC drives, RS485-MCB or any other RS485 device.
+Industrial RS485 Gateway based on ESP32 is designed and developed by ElectroSoul Technologies. We had tested and used this RS485 Gateway with various slave devices for Monitoring such as MFM meters, Solar Inverters, AC Drives, etc as well as for controlling AC drives, RS485-MCB, or any other RS485 device.
 
 We had tested our products not just in our lab environment but it has also been tested and is working right now in many harsh Industrial Environment.
 <table class="table table-hover table-striped table-bordered">
@@ -26,10 +26,10 @@ We had tested our products not just in our lab environment but it has also been 
 * [Repository Contents](#Repository-Contents)
 
 ## FEATURES
-  * Directlly program with Arduino IDE just like you program your ESP32 board.
+  * Directly program with Arduino IDE just like you program your ESP32 board.
   * Supports Industrial Standard Input voltage.
   * State of the art RS-485 ckt with Auto-Direction feature.
-  * Onboard 2 Programmeble LEDs.
+  * Onboard 2 Programmable LEDs.
   * Onboard micro USB for Programming.
   * RS-485 lines are protected with Specialized TVS diode for RS485.
   * DIN rail + wall mount Encloser.
@@ -41,17 +41,17 @@ We had tested our products not just in our lab environment but it has also been 
  We sell this device in two varients.
  
  * Comes with our ElectroSoul Firmware installed inside.
-    * Can talk to our server directlly.✅
+    * Can talk to our server directly.✅
     * We can show your data to our DashBoard.✅
-    * We can provide you an daily email report.✅
+    * We can provide you a daily email report.✅
     * We can provide you SMS/email alerts.✅
-    * Easily configures with our Configeration Tool.✅
+    * Easily configures with our Configuration Tool.✅
   * Comes without ElectroSoul Firmware.
     * You can Program it as per your requirement.✅
     * You can use our [RS485 master Liberary](https://github.com/ElectroSoul-Technologies/ElectroSoul_RS485_master_Liberary).✅
     * can not use our Server.❌
     * Data can not be shown on our DashBoard.❌
-    * No support for configeration Tool.❌
+    * No support for configuration Tool.❌
     
 <a href="https://www.tindie.com/stores/electrosoul/?ref=offsite_badges&utm_source=sellers_electrosoul&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
     
@@ -76,7 +76,7 @@ We had tested our products not just in our lab environment but it has also been 
   * View all your data live.
   * See Waveform of your data.
   * Directly Print/copy your data.
-  * Convert your data to PDF,CSV or EXCEL.
+  * Convert your data to PDF, CSV or EXCEL.
   * See data as per your time.
   
   <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/11.jpeg" width="1000" title="ESP32-RS485 Modbus Gateway" alt="ESP32-RS485 Modbus Gateway"></a>
@@ -88,12 +88,12 @@ Basic flow diagrams that how EMS or Gateway works.
   <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/13.jpeg" width="1000"></a>
 
 ## ElectroSoul Gateway Basic Wiring
-In below diagram you can see how RS485 wiring can be done in daisy chain configeration with various slave device.
+In the below diagram, you can see how RS485 wiring can be done in daisy chain configuration with the various slave devices.
 
 <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/12.jpeg" width="1000"></a>
-## ElectroSoul Gateway Configeration Tool
-We have our own configeration tool for configering our EMS according to your needs.
-Find more info about using configeration tool [Here](https://github.com/ElectroSoul-Technologies/ES-EMS_configerator).
+## ElectroSoul Gateway Configuration Tool
+We have our own configuration tool for configuring our EMS according to your needs.
+Find more info about using the configuration tool [Here](https://github.com/ElectroSoul-Technologies/ES-EMS_configerator).
 
   <a href="http://ems.electrosoul.in/login.php/"><img src="http://electrosoul.in/product_photo/RS485_Gateway_WiFi/01.jpeg" width="1000"></a>
 
@@ -101,4 +101,3 @@ Find more info about using configeration tool [Here](https://github.com/ElectroS
 * **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE.
 * **LICENSE.md** - Library has open source license gpl-3.0
 * **README.MD**
-
